@@ -10,8 +10,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "ejs": "2.4.1",
-    "express": "4.13.3",
+    "ejs": "2.5.5",
+    "express": "4.17.3",
     "pg": "^6.4.2"
   },
   "repository": {
